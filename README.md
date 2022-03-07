@@ -1,44 +1,48 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
-
 Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
+ - Greed 
  
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
+# Exercícios de Algoritmos Ambiciosos
 
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Algoritmos Ambiciosos<br>
 
 ## Alunos
 |Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+
+| 18/0011472  |  Rodolfo Cabral Neves |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Exercícios resolvidos de algoritmos gulosos da plataforma [Codeforces](https://codeforces.com/) 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+[Exercício 996 A](https://codeforces.com/problemset/problem/996/A)
+
+![996](https://user-images.githubusercontent.com/9947506/157121213-a5c9439e-b04a-4200-8519-a4d7e2f1b755.png)
+
+[Excercício 1221 A](https://codeforces.com/contest/1221/problem/A)
+
+![2048](https://user-images.githubusercontent.com/9947506/157124034-235acac5-9104-44d2-90f9-a11365609417.png)
+
+[Exercício 749A](https://codeforces.com/problemset/problem/749/A)
+
+![749](https://user-images.githubusercontent.com/9947506/157128871-4fab8719-99e4-4cdb-9a48-0f9073c04511.png)
+
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: C<br>
+
+ * Ter o GCC instalado
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+
+```
+gcc -Wall -o out codigo_fonte.c
+./out
+
+```
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Todos os códigos têm o veredito ACCEPTED e usei em todos os exercícios soluções gulosas. 
 
 
 
