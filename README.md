@@ -41,6 +41,10 @@ gcc -Wall -o out codigo_fonte.c
 
 ```
 
+## Vídeo de apresentação
+
+[Clique aqui](https://drive.google.com/file/d/1RAGboNVzU9G8jxsZgy79hEtuP1fBluLV/view?usp=sharing)
+
 ## Outros 
 Todos os códigos têm o veredito ACCEPTED e usei em todos os exercícios soluções gulosas. 
 
